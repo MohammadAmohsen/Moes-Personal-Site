@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Moes-Personal-Site/static/css/main.f855e6bc.css",
+    "main.js": "/Moes-Personal-Site/static/js/main.3e940662.js",
+    "static/js/787.c8a2e4bb.chunk.js": "/Moes-Personal-Site/static/js/787.c8a2e4bb.chunk.js",
+    "static/media/logo.svg": "/Moes-Personal-Site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Moes-Personal-Site/index.html",
+    "main.f855e6bc.css.map": "/Moes-Personal-Site/static/css/main.f855e6bc.css.map",
+    "main.3e940662.js.map": "/Moes-Personal-Site/static/js/main.3e940662.js.map",
+    "787.c8a2e4bb.chunk.js.map": "/Moes-Personal-Site/static/js/787.c8a2e4bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3e940662.js"
+  ]
+}
