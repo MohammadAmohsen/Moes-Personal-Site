@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "name": "Moe Mohsen",
+    "role": "technology consultant",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "Experienced consultant with a bachelor’s degree in information systems and technology. Expertise in all phases of Software Engineering including Server and client-side Web Application Development, Database Management, and Mobile Development. Possesses critical consulting skills in project management, client relations, and Agile Methodology",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -23,7 +23,7 @@ let resumeData = {
         }
       ],
     "aboutme":"Test about me",
-    "address":"India",
+    "address":"Philadelphia",
     "website":"https://rbhatia46.github.io",
     "education":[
       {
