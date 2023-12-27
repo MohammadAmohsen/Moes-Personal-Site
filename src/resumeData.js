@@ -1,10 +1,10 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    //"imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Moe Mohsen",
     "role": "technology consultant",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "Test Experienced consultant with a bachelor’s degree in information systems and technology. Expertise in all phases of Software Engineering including Server and client-side Web Application Development, Database Management, and Mobile Development. Possesses critical consulting skills in project management, client relations, and Agile Methodology",
+    "roleDescription": "Experienced consultant with a bachelor’s degree in information systems and technology. Expertise in all phases of Software Engineering including Server and client-side Web Application Development, Database Management, and Mobile Development. Possesses critical consulting skills in project management, client relations, and Agile Methodology",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -13,18 +13,18 @@ let resumeData = {
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/MohammadAmohsen",
           "className":"fa fa-github"
         },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
-        }
+        // {
+        //   "name":"skype",
+        //   "url":"http://twitter.com/rbhatia46",
+        //   "className":"fa fa-twitter"
+        // }
       ],
-    "aboutme":"Test about me",
-    "address":"Philadelphia",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"About me",
+    "address":"Philadelphia, PA",
+    "website":"https://mohammadamohsen.github.io/Moes-Personal-Site",
     "education":[
       {
         "UniversityName":"The LNM Insitute of Information Technology",
@@ -43,7 +43,7 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
+        "CompanyName":"Deloitte",
         "specialization":"Some specialization",
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2018",
