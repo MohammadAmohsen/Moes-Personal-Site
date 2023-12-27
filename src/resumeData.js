@@ -25,6 +25,7 @@ let resumeData = {
     "aboutme":"About me",
     "address":"Philadelphia, PA",
     "website":"https://mohammadamohsen.github.io/Moes-Personal-Site",
+    "githuburl":"https://mohammadamohsen.github.io",
     "education":[
       {
         "UniversityName":"The LNM Insitute of Information Technology",
