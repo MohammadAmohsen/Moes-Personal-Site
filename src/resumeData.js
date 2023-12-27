@@ -8,7 +8,7 @@ let resumeData = {
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"www.linkedin.com/in/moe-mohsen",
+          "url":"https://www.linkedin.com/in/mohammad-a-322438208/",
           "className":"fa fa-linkedin"
         },
         {
@@ -45,9 +45,11 @@ let resumeData = {
     "work":[
       {
         "CompanyName":"Deloitte",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
+        "specialization":"Application and Program Analyst",
+        "MonthHired":"August",
+        "YearHired":"2022",
+        "MonthOfLeaving":"October",
+        "YearOfLeaving":"2023",
         "Achievements":"Some Achievements"
       },
       {
