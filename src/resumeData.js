@@ -2,7 +2,7 @@ let resumeData = {
     //"imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Moe Mohsen",
     "role": "technology consultant",
-    "linkedinId":"Your LinkedIn Id",
+    "linkedinId":"www.linkedin.com/in/moe-mohsen",
     "skypeid": "Your skypeid",
     "roleDescription": "Experienced consultant with a bachelor’s degree in information systems and technology. Expertise in all phases of Software Engineering including Server and client-side Web Application Development, Database Management, and Mobile Development. Possesses critical consulting skills in project management, client relations, and Agile Methodology",
     "socialLinks":[
@@ -28,26 +28,26 @@ let resumeData = {
     "githuburl":"https://mohammadamohsen.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
+        "UniversityName":"Temple University",
+        "specialization":"Information Systems and Technology",
+        "MonthOfPassing":"December",
+        "YearOfPassing":"2021",
         "Achievements":"Some Achievements"
       },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
-      }
+      // {
+      //   "UniversityName":"Some University",
+      //   "specialization":"Some specialization",
+      //   "MonthOfPassing":"Jan",
+      //   "YearOfPassing":"2018",
+      //   "Achievements":"Some Achievements"
+      // }
     ],
     "work":[
       {
         "CompanyName":"Deloitte",
         "specialization":"Application and Program Analyst",
         "MonthHired":"August",
-        "YearHired":"2022",
+        "YearHired":"2022 -",
         "MonthOfLeaving":"October",
         "YearOfLeaving":"2023",
         "Achievements":"Some Achievements"
@@ -96,12 +96,12 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Smarter then me",
+        "name":"Will"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"He was the best guy around",
+        "name":"Kyke"
       }
     ]
   }
