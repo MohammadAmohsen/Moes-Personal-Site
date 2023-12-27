@@ -30,6 +30,8 @@ let resumeData = {
       {
         "UniversityName":"Temple University",
         "specialization":"Information Systems and Technology",
+        "MonthStarted":"August",
+        "YearStarted":"2019 -",
         "MonthOfPassing":"December",
         "YearOfPassing":"2021",
         "Achievements":"Some Achievements"
