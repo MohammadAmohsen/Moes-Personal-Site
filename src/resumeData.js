@@ -22,7 +22,7 @@ let resumeData = {
         //   "className":"fa fa-twitter"
         // }
       ],
-    "aboutme":"About me",
+    "aboutme":"Experienced consultant with a bachelor’s degree in information systems and technology. Expertise in all phases of Software Engineering including Server and client-side Web Application Development, Database Management, and Mobile Development. Possesses critical consulting skills in project management, client relations, and Agile Methodology",
     "address":"Philadelphia, PA",
     "website":"https://mohammadamohsen.github.io/Moes-Personal-Site",
     "githuburl":"https://mohammadamohsen.github.io",
@@ -69,6 +69,12 @@ let resumeData = {
       },
       {
         "skillname":"CSS"
+      },  
+      {
+        "skillname":"JavaScript"
+      },
+      {
+        "skillname":"Java"
       },
       {
         "skillname":"Reactjs"
@@ -103,7 +109,7 @@ let resumeData = {
       },
       {
         "description":"He was the best guy around",
-        "name":"Kyke"
+        "name":"Kyle"
       }
     ]
   }
