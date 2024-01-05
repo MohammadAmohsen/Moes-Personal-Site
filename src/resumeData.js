@@ -34,7 +34,7 @@ let resumeData = {
         "YearStarted":"2019 -",
         "MonthOfPassing":"December",
         "YearOfPassing":"2021",
-        "Achievements":"Some Achievements"
+        "Achievements":"Data Structures & Algorithms, Client-Side Scripting for the Web, Component-Based Software Design, Server-Side Web Application Development, Network Architecture & Operating Systems, Database Management Systems Information System Analysis & Design, Introduction to Mobile Development, Capstone - Systems Implementation"
       },
       // {
       //   "UniversityName":"Some University",
@@ -52,14 +52,17 @@ let resumeData = {
         "YearHired":"2022 -",
         "MonthOfLeaving":"October",
         "YearOfLeaving":"2023",
-        "Achievements":"Some Achievements"
+        "Achievements":"\n\u2022 TEST1 Served as PMO and Cutover Lead and testing support for the largest nonprofit healthcare network in New Jersey to support the development of the client's application using Momentum Methodology\n\n\n" + 
+        "\n\u2022Managed cross-functional team meetings incorporating PPT, Excel, and Teams to maintain PMO project rosters, organize weekly Project Status Reports, meet client needs, and other related activities\n"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Temple University",
+        "specialization":"Teacher's Assistant",
+        "MonthHired":"August",
+        "YearHired":"2022 -",
+        "MonthOfLeaving":"October",
+        "YearOfLeaving":"2023",
+        "Achievements":"Taught students basics and skills to efficiently understand security with programming and common vulnerabilities that plague developed code as outlined in publications like the OWASP Top 10 and SANS Top 25. Assisted students with their course and security-related questions."
       }
     ],
     "skillsDescription":"Your skills here",
